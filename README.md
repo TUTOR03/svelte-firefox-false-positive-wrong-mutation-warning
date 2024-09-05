@@ -2,7 +2,7 @@
 
 This is a repo for reproducing svelte 5 false positive warning in firefox about `ownership_invalid_mutation`.
 
-<!-- ![ErrorScreenshot]() -->
+![WarningScreenshot](https://github.com/TUTOR03/svelte-firefox-false-positive-wrong-mutation-warning/raw/master/assets/warning_screenshot.png)
 
 ## Steps to reproduce
 
